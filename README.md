@@ -1,5 +1,4 @@
-# Wine-Quality-Analysis
-Corizo-Major Project- Wine Quality Analysis 
+# Corizo - Major Project-Wine Quality Analysis 
 
 # Predict quality of wine using Machine Learning techniques.
 
