@@ -1,6 +1,6 @@
 # Corizo - Major Project-Wine Quality Analysis 
 
-# Predict quality of wine using Machine Learning techniques.
+Predict quality of wine using Machine Learning techniques.
 
 ## Attribute Information:
   ### Input variables (based on physicochemical tests),
