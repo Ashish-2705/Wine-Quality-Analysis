@@ -2,8 +2,8 @@
 
 Predict quality of wine using Machine Learning techniques. Support Vector Machines (SVMs) method used in this case with an accuracy of 83%. 
 
-## Attribute Information:
-  ### Input variables (based on physicochemical tests),
+## Attribute Information :
+  ### Input variables (based on physicochemical tests) -
     
     1. fixed acidity — primary fixed acids found in wine are tartaric, succinic, citric, and malic.
     2. volatile acidity — the gaseous acids present in wine.
@@ -17,6 +17,6 @@ Predict quality of wine using Machine Learning techniques. Support Vector Machin
     10. alcohol — percent of alcohol present in wine.
     11. sulphates :    Added sulfites preserve freshness and protect wine from oxidation, and bacteria.
     
-  ### Output variable (based on sensory data)
+  ### Output variable (based on sensory data) -
     
-    12. quality"
+    12. quality
