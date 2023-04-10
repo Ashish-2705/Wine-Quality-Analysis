@@ -1,6 +1,6 @@
 # Corizo - Major Project-Wine Quality Analysis 
 
-Predict quality of wine using Machine Learning techniques.
+Predict quality of wine using Machine Learning techniques. Support Vector Machines (SVMs) method used in this case with an accuracy of 83%. 
 
 ## Attribute Information:
   ### Input variables (based on physicochemical tests),
