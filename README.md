@@ -3,7 +3,7 @@ Corizo-Major Project- Wine Quality Analysis
 
 # Predict quality of wine using Machine Learning techniques.
 
-# Attribute Information:
+## Attribute Information:
   ### Input variables (based on physicochemical tests),
     
     1. fixed acidity — primary fixed acids found in wine are tartaric, succinic, citric, and malic.
